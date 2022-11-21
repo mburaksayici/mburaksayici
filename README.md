@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **mburaksayici@gmail.com**
 
-- 📄 Know about my experiences [deneme](deneme)
+- 📄 Know about my experiences [in here](https://github.com/mburaksayici/readme/blob/main/mehmet-burak-sayici-cv.pdf)
 
 - ⚡ Fun fact **I'm teaching ML&DL for 6 years in my youtube channel, having 13k subs,and i stopped it**
 
